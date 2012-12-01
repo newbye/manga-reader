@@ -8,7 +8,7 @@ I use this to read manga on my kindle3.
 Depends on
 ==========
 Python 2.x  
-Apache 2
+Apache 2  
 GNU/Linux server (script uses ls)
 
 In action
